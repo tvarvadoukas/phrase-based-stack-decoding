@@ -1,5 +1,4 @@
-# MT Assignment 2
-# Curtis Holmes, Riaz Moola, Theo Varvadoukas
+# Author:Theo Varvadoukas
 
 import sys
 from Decoder import Decoder
