@@ -7,11 +7,11 @@ Phrase based stack decoding for machine translation.
 The implementation is consisted of five main classes each one of them 
 implemented in its own file:
 
-Wordscovered
-Hypothesis
-Phrasetable
-Stack
-Decoder
+- Wordscovered
+- Hypothesis
+- Phrasetable
+- Stack
+- Decoder
 
 Wordscovered
 ---------------
